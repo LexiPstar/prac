@@ -36,17 +36,22 @@
 #     print('{}\t{}\t{}'.format(goods[0], float(goods[1]), int(goods[2])))
 
 
-sd = ['aa', 'bb', 'bb', 'dd', 'ee', 'ff', 'ff', 'hh', 'ii', 'jj']
+# sd = ['aa', 'bb', 'bb', 'dd', 'ee', 'ff', 'ff', 'hh', 'ii', 'jj']
 # for i in sd:
 #     if i == 'bb' or 'ff':
 #         sd.remove(i)
 #         i = i
 # print(sd)
-n = 0
-while n < len(sd):
-    if sd[n] == 'bb':
-        sd.remove('bb')
-        n = n
-    else:
-        n += 1
-print(sd)
+# n = 0
+# while n < len(sd):
+#     if sd[n] == 'bb':
+#         sd.remove('bb')
+#         n = n
+#     else:
+#         n += 1
+# print(sd)
+
+sr = []
+for i in range(10):
+    sr.append(i)
+print(sr)
