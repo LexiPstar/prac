@@ -51,7 +51,12 @@
 #         n += 1
 # print(sd)
 
-sr = []
-for i in range(10):
-    sr.append(i)
-print(sr)
+# sr = []
+# for i in range(9, 10, 20):
+#     sr.append(i)
+#     print(sr)
+
+asd = 'addenda'
+i = 'ade'
+if i in asd:
+    print(i)
