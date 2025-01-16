@@ -56,7 +56,12 @@
 #     sr.append(i)
 #     print(sr)
 
-asd = 'addenda'
-i = 'ade'
-if i in asd:
-    print(i)
+# asd = 'addenda'
+# i = 'ade'
+# if i in asd:
+#     print(i)
+
+class Student(object):
+    __table__name = 'sss'
+    username=textwrap
+    def __init__(self, name):
