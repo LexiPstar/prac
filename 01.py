@@ -61,8 +61,21 @@
 # if i in asd:
 #     print(i)
 
-class Student(object):
-    __table__name = 'sss'
-    username='index=text(ss0)'
-def __init__(self, name):
-    self.name = name
+# class Student(object):
+#     __table__name = 'sss'
+#     username = 'index=text(ss0)'
+#
+#
+# def __init__(self, name):
+#     self.name = name
+
+
+i = 1
+sum = 0
+while i < 101:
+    sum += i
+    i += 1
+print(sum)
+i = 100
+sum = (1 + i) * i / 2
+print(sum)
