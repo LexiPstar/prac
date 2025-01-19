@@ -63,5 +63,6 @@
 
 class Student(object):
     __table__name = 'sss'
-    username=textwrap
-    def __init__(self, name):
+    username='index=text(ss0)'
+def __init__(self, name):
+    self.name = name
