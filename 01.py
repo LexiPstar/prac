@@ -70,12 +70,40 @@
 #     self.name = name
 
 
-i = 1
-sum = 0
-while i < 101:
-    sum += i
-    i += 1
-print(sum)
-i = 100
-sum = (1 + i) * i / 2
-print(sum)
+# i = 1
+# sum = 0
+# while i < 101:
+#     sum += i
+#     i += 1
+# print(sum)
+# i = 100
+# sum = (1 + i) * i / 2
+# print(sum)
+
+
+def generate_pascals_triangle(num_rows):
+    triangle = []
+    for row_num in range(num_rows):
+        # 每一行的第一个元素总是1
+        row = [1]
+        if triangle:
+            # 获取上一行
+            last_row = triangle[-1]
+            # 计算当前行的中间元素
+            row += [last_row[i] + last_row[i + 1] for i in range(len(last_row) - 1)]
+            # 每一行的最后一个元素总是1
+            row.append(1)
+        triangle.append(row)
+    return triangle
+
+
+def print_pascals_triangle(triangle):
+    for row in triangle:
+        print("  ".join(map(str, row)).center(len(triangle[-1]) * 3))
+
+
+# 生成并打印杨辉三角
+num_rows = int(input())
+triangle = generate_pascals_triangle(num_rows)
+print_pascals_triangle(triangle)
+
