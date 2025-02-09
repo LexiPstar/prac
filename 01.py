@@ -110,3 +110,4 @@
 num = 222
 char = 'abcd'
 print(char)
+
