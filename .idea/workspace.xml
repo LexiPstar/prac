@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c438ac0-1e9a-4d55-ac63-d689218d0c32" name="更改" comment="113">
-      <change afterPath="$PROJECT_DIR$/minesweeper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9c438ac0-1e9a-4d55-ac63-d689218d0c32" name="更改" comment="113" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +92,7 @@
       <workItem from="1737041940147" duration="68000" />
       <workItem from="1737292777602" duration="659000" />
       <workItem from="1737297395098" duration="503000" />
-      <workItem from="1737547446901" duration="4693000" />
+      <workItem from="1737547446901" duration="4990000" />
     </task>
     <task id="LOCAL-00001" summary="12">
       <option name="closed" value="true" />
@@ -177,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737551038895</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="113">
+      <option name="closed" value="true" />
+      <created>1737552235154</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737552235154</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +205,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="113" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject$minesweeper.coverage" NAME="minesweeper 覆盖结果" MODIFIED="1737552187274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$minesweeper.coverage" NAME="minesweeper 覆盖结果" MODIFIED="1737552221777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$01.coverage" NAME="01 覆盖结果" MODIFIED="1737547970141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$snake_game.coverage" NAME="snake_game 覆盖结果" MODIFIED="1737550899969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
