@@ -172,3 +172,5 @@ def partition(arr, low, high):
 arr = [3, 6, 8, 10, 1, 2, 1]
 three_way_quick_sort(arr, 0, len(arr) - 1)
 print("三路快排:", arr)
+
+c = input("商品数量实力平平设立了怕死了怕死了平时")
