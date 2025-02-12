@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c438ac0-1e9a-4d55-ac63-d689218d0c32" name="更改" comment="op">
-      <change afterPath="$PROJECT_DIR$/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/func.py" beforeDir="false" afterPath="$PROJECT_DIR$/func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,25 +59,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01.executor": "Run",
-    "Python.func.executor": "Run",
-    "Python.huiwenchuan.executor": "Run",
-    "Python.minesweeper.executor": "Run",
-    "Python.snake_game.executor": "Run",
-    "Python.sort.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.github.blingyshs.openincursor.OpenInCursorSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.huiwenchuan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.minesweeper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sort.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.blingyshs.openincursor.OpenInCursorSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -105,7 +104,8 @@
       <workItem from="1739106726397" duration="5082000" />
       <workItem from="1739114253634" duration="165000" />
       <workItem from="1739114503330" duration="242000" />
-      <workItem from="1739277783589" duration="3637000" />
+      <workItem from="1739277783589" duration="4344000" />
+      <workItem from="1739368551982" duration="606000" />
     </task>
     <task id="LOCAL-00001" summary="12">
       <option name="closed" value="true" />
@@ -235,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739284498280</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="op">
+      <option name="closed" value="true" />
+      <created>1739286153402</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1739286153402</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
