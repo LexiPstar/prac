@@ -32,4 +32,9 @@ print(kos)
 
 
 def comsec():
-    username = user[text(str, 100)]
+    name = User.name
+    age = User.age
+    tel = User.tel
+    email = User.email
+
+
