@@ -38,3 +38,4 @@ def comsec():
     email = User.email
 
 
+if __name__ == '__main__':
